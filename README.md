@@ -1,2 +1,18 @@
-# attack
-chess library for providing a decision whether a piece can capture to a location (without implementing it)
+# README #
+
+This README documents a library for attacking a location.
+
+The library provides the decision whether a piece can capture to the given location (without impementing it).
+
+### What is this repository for? ###
+
+* a library for attacking locations.
+* Version 1.1.1
+
+### How do I get set up? ###
+
+* This library will be included as a dependency
+
+### Who do I talk to? ###
+
+* Repo owner or admin
