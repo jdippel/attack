@@ -7,7 +7,7 @@ The library provides the decision whether a piece can capture to the given locat
 ### What is this repository for? ###
 
 * a library for attacking locations.
-* Version 1.2.0
+* Version 1.3.0
 
 ### How do I get set up? ###
 
