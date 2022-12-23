@@ -7,7 +7,7 @@ The library provides the decision whether a piece can capture to the given locat
 ### What is this repository for? ###
 
 * a library for attacking locations.
-* Version 1.3.1
+* Version 2.1.0
 
 ### How do I get set up? ###
 
@@ -16,3 +16,9 @@ The library provides the decision whether a piece can capture to the given locat
 ### Who do I talk to? ###
 
 * Repo owner or admin
+
+# attack #
+
+With version 2.0.0 a parent pom is introduced that is part of chessparent repository.
+The parent pom.xml is placed relatively one directory above the repository pom.xml.
+
